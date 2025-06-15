@@ -23,7 +23,7 @@ function SideBar(props) {
   return (
     <>
       <div
-        className={`${!isOpen || "hidden"} w-[250px] h-screen pt-4 pr-4 z-10 absolute top-[77px] left-4 bg-neutral-900`}
+        className={`${!isOpen && "hidden"} w-[250px] h-screen pt-4 pr-4 z-10 absolute top-[77px] left-4 bg-neutral-900`}
       >
         <ul className={"w-4/5"}>
           <li className={buttonStyle}>
@@ -75,7 +75,7 @@ function SideBar(props) {
         </ul>
       </div>
       <div
-        className={`${!isOpen || "hidden"} w-[250px] mr-4 shrink-0 hidden lg:block`}
+        className={`${!isOpen && "hidden"} w-[250px] mr-4 shrink-0 hidden lg:block`}
       />
     </>
   );
