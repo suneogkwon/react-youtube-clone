@@ -56,7 +56,7 @@ export default function App() {
           <Outlet />
         </SideBarProvider>
       </YoutubeApiProvider>
-      <ReactQueryDevtools initialIsOpen={false} />
+      {/*<ReactQueryDevtools  initialIsOpen={false} />*/}
     </QueryClientProvider>
   );
 }
