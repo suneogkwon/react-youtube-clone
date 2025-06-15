@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "e89S_zqYuMlehm7hYcNCUJXhxHU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "oiFsoFZ1-L_aPNjWgek25SYonak",
+      "id": "UC2SpC8rL9LaeQriE4YNdyzA",
+      "snippet": {
+        "title": "Zenless Zone Zero",
+        "description": "Zenless Zone Zero is HoYoverse’s brand-new urban fantasy ARPG. A calamity known as the \"Hollows\" has destroyed modern society in the game. \"New Eridu,\" the last remaining metropolis, has risen against the odds amidst this destructive catastrophe and become the last remnant of contemporary civilization. Players act as \"Proxies\" who explore Hollows alongside a wide range of unique Agents, fighting enemies, and completing commissions on their journey to unveil the mysteries behind New Eridu.\n\nVersion 2.0 \"Where Clouds Embrace the Dawn\" of Zenless Zone Zero, HoYoverse's urban fantasy ARPG, is out now: https://hoyo.link/6SOkFDAL\n\n▼ Official Community ▼\n▶X (Twitter): https://twitter.com/ZZZ_EN\n▶Facebook: https://www.facebook.com/ZZZ.Official.EN\n▶Instagram: https://www.instagram.com/zzz.official.en\n▶YouTube: https://www.youtube.com/@ZZZ_Official\n▶TikTok: https://www.tiktok.com/@zenlesszonezero\n▶Discord: https://discord.gg/zenlesszonezero\n▶Reddit: https://www.reddit.com/r/ZZZ_Official\n",
+        "customUrl": "@zzz_official",
+        "publishedAt": "2022-03-25T10:41:37.315213Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Jq3uzIcWWXIV_Pty6DvUSUXXs7Ep29HRVBfj5qoEmX1KNsXQpYXbZkuVNd0KISAG6vW84x9IO80=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Jq3uzIcWWXIV_Pty6DvUSUXXs7Ep29HRVBfj5qoEmX1KNsXQpYXbZkuVNd0KISAG6vW84x9IO80=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Jq3uzIcWWXIV_Pty6DvUSUXXs7Ep29HRVBfj5qoEmX1KNsXQpYXbZkuVNd0KISAG6vW84x9IO80=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Zenless Zone Zero",
+          "description": "Zenless Zone Zero is HoYoverse’s brand-new urban fantasy ARPG. A calamity known as the \"Hollows\" has destroyed modern society in the game. \"New Eridu,\" the last remaining metropolis, has risen against the odds amidst this destructive catastrophe and become the last remnant of contemporary civilization. Players act as \"Proxies\" who explore Hollows alongside a wide range of unique Agents, fighting enemies, and completing commissions on their journey to unveil the mysteries behind New Eridu.\n\nVersion 2.0 \"Where Clouds Embrace the Dawn\" of Zenless Zone Zero, HoYoverse's urban fantasy ARPG, is out now: https://hoyo.link/6SOkFDAL\n\n▼ Official Community ▼\n▶X (Twitter): https://twitter.com/ZZZ_EN\n▶Facebook: https://www.facebook.com/ZZZ.Official.EN\n▶Instagram: https://www.instagram.com/zzz.official.en\n▶YouTube: https://www.youtube.com/@ZZZ_Official\n▶TikTok: https://www.tiktok.com/@zenlesszonezero\n▶Discord: https://discord.gg/zenlesszonezero\n▶Reddit: https://www.reddit.com/r/ZZZ_Official\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU2SpC8rL9LaeQriE4YNdyzA"
+        }
+      },
+      "statistics": {
+        "viewCount": "338269653",
+        "subscriberCount": "1260000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "324"
+      }
+    }
+  ]
+}

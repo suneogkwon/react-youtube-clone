@@ -1,0 +1,788 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XxeB8dCZbgsGl8SDtxgD9ZgEgWI",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9n39_9D2ylXtXDPmFphtKbbeVpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4uv_a3NYQy0"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-30T01:06:35Z",
+        "channelId": "UCdKxRqb5UIMx6iu1vLZCNig",
+        "title": "Nicole &amp; Corin | Zenless Zone Zero #cosplay #zzz #shortvideo",
+        "description": "Nicole & Corin | Zenless Zone Zero. Corin Wickes is a playable agent in Zenless Zone Zero and a member of Victoria ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4uv_a3NYQy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4uv_a3NYQy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4uv_a3NYQy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tskrin-cosplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-30T01:06:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJPLzf94g4ypvra1roa7gxohLZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ubkBZz0uOs0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-10T10:16:47Z",
+        "channelId": "UCyKkBV7ZXobG3NeBXmOqdow",
+        "title": "[Z.Z.Z] 운규산 공식 짬타이거 ㅋㅋㅋ",
+        "description": "젠레스존제로 #젠레스 #젠존제 #의현 #벨 #와이즈 #zenless #zzz #귤복복 #shotrs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ubkBZz0uOs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ubkBZz0uOs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubkBZz0uOs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "단탈리온",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-10T10:16:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9DEBODlIADU-XTQzhDXin7Kijdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ffubdFPFlS8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T04:00:07Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Yixuan Character Demo - &quot;Martial Summit Showdown&quot; | Zenless Zone Zero",
+        "description": "\"Yixuan Shifu, sorry to keep you waiting.\" \"We're scheduled for a three-move training session.\" \"Training?\" —Welcome to New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ffubdFPFlS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ffubdFPFlS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ffubdFPFlS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T04:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CIX59v3Us4kQDUph41jwF0ynnAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CD6nma55eOk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-03T15:32:47Z",
+        "channelId": "UCEIk1wWcH6cBHde36r9mEHA",
+        "title": "New ZZZ Male character is kinda... #zenlesszonezero",
+        "description": "Zenless Zone Zero #zenlesszonezero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CD6nma55eOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CD6nma55eOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CD6nma55eOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AngyFirefly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-03T15:32:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zi_z1d35yxSZhK1ARpWKGKsO-lo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E4zQgOiEtI0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T11:33:39Z",
+        "channelId": "UClDD_y014JIRfnjtn_Yeliw",
+        "title": "ZZZ  2.0 Changes | Zenless Zone Zero  2.0 New Features",
+        "description": "ZZZ 2.0 ALL Cargo Location https://youtu.be/V8mfeKz7GwQ ➤Doesnt Have Time to Play Game ? Open Genshin and Wutering ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E4zQgOiEtI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E4zQgOiEtI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E4zQgOiEtI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ON Game",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T11:33:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_KqESE-NhsspStYyXHG3Xbmh3Y4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m9jsm6KA_S4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T06:37:25Z",
+        "channelId": "UCZ6mNZTiTUrUSbSYPlclI4A",
+        "title": "세상 귀여운 귤복복이 파티창 모션 [젠레스 존 제로]",
+        "description": "세상 귀여운 귤복복이 파티창 모션 [젠레스 존 제로] [귤복복] CV : 김예령 (Apex 레전드 - 알터 / 쿠키런: 킹덤 - 고드름예티 쿠키, 기자맛 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9jsm6KA_S4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9jsm6KA_S4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9jsm6KA_S4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레벤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T06:37:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpiAdS3_jxKup5yHg8EqwcqSvYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MowwWVvaWLQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T16:00:26Z",
+        "channelId": "UCeA0_eQaEkaNrDoHxe-5zuA",
+        "title": "JU FUFU IS CUTE AND FUNNY 😭😭😭😭😭 | Zenless Zone Zero",
+        "description": "ju fufu mains be like Subscribe and Rice Chan will be a happy vtuber~ Welcome back once again to today's exciting Zenless Zone ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MowwWVvaWLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MowwWVvaWLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MowwWVvaWLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rice Chan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T16:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3y7kpbA_H6i-q1n2HujKs_wv7j0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pjWfRu88mb0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T12:02:45Z",
+        "channelId": "UCuhNfIQuEkvoGfVjZBIO8Zw",
+        "title": "【ゼンゼロ】ZZZの八尺様が最高にかわいい理由【ゼンレスゾーンゼロ】",
+        "description": "星見雅かわいい #ゼンゼロ #hoyocreators #ゼンレスゾーンゼロ #新エリー都 #zzzero #zzzfaction #zzzgameplay #ZZZ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pjWfRu88mb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pjWfRu88mb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjWfRu88mb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やぶからおそると / Oh_Salt",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T12:02:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wQarwM0wH8bhX8dto3kOrPh44Xk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t4crouDDAl4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T11:43:07Z",
+        "channelId": "UC8dDkMvWQXvQGoMjzE7Gl5Q",
+        "title": "When Every New Girl Drops in ZZZ Be Like... #zzzero #zzz #zenlesszonezero #wise",
+        "description": "Aaah~~~ Aaah~~~ Aaah~~~ * Credits * Model : - HoYoverse - Sketchfab ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4crouDDAl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4crouDDAl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4crouDDAl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RataTaka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T11:43:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dHF2s-69UiABe6Xir5aRfuAm5nQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1mrorqN0Eu4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T15:00:32Z",
+        "channelId": "UCFVEr9by15m28zsEhQZETXQ",
+        "title": "YiXuan &amp; Miyabi Teams! | NEW Shiyu Defense 5-6-7 S Clear | Zenless Zone Zero ZZZ 2.0【ゼンゼロ】",
+        "description": "Subscribe for more videos - https://www.youtube.com/channel/UCFVEr9by15m28zsEhQZETXQ?sub_confirmation=1 ❤️Also ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1mrorqN0Eu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1mrorqN0Eu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1mrorqN0Eu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "omegaevolution",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mF_UOUOcfwOWz72vi01KtohlJ7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LjaM_PhDfwM"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-02T14:31:08Z",
+        "channelId": "UCjKORFTGdukXpr-TY8io32Q",
+        "title": "Miyabi",
+        "description": "zenlesszonezero #zzz #zenless #ゼンゼロ #ゼンレスゾーンゼロ #젠레스존제로.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjaM_PhDfwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjaM_PhDfwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjaM_PhDfwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Flasso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-02T14:31:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "84y5VkUAldQ7Pkj0aO-Rz_g61Lk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XzrB_KDsoTw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T09:15:50Z",
+        "channelId": "UCtLamgcQptcizPEAAY37xJg",
+        "title": "All The New Features &amp; Changes in Zenless Zone Zero 2.0 Update",
+        "description": "Let's take a look at all the new features in Zenless Zone Zero 2.0 update. https://www.hoyolab.com/article/39161903 ✨ Follow me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XzrB_KDsoTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XzrB_KDsoTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XzrB_KDsoTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CatWithBlueHat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T09:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wszLeTOxutGdAY-uw5xEXxwaBaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Mr5YMu36iI"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-10T03:15:02Z",
+        "channelId": "UCWeui8_zlYafRTtKtuBwxOQ",
+        "title": "Deadly Assault ZZZ | M0W0 Yixuan Pan Yinhu Pulchra F2P Team x Astra | 9-Star | Zenless Zone Zero 2.0",
+        "description": "M0W0 yixuan pulchra pan yinhu f2p team / yixuan nicole astra yao hypercarry team / yixuan caesar astra yao hypercarry build ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Mr5YMu36iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Mr5YMu36iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Mr5YMu36iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Truver Genshin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-10T03:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d8YqBl8gpFKjQ4MUxnWEjIIMRtQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xEx8Qkn-8s4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T02:00:53Z",
+        "channelId": "UCW-3VqcY18Qm2rp2rSjxGXA",
+        "title": "내친구 펄냥이 I 젠레스 존 제로",
+        "description": "젠레스존제로 #젠레스 #zzz #펄크라 #버니스.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEx8Qkn-8s4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEx8Qkn-8s4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEx8Qkn-8s4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코코",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T02:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q1EfxYllwPXr3i2druQ18Z8lZAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BnC-cpUCdns"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-10T22:43:19Z",
+        "channelId": "UCpNqmK4B0Xe2Yidm2-Yh6UA",
+        "title": "Nichijou - Zzz",
+        "description": "Zzz by Sayaka Sasaki.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BnC-cpUCdns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BnC-cpUCdns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnC-cpUCdns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MadsWare",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-10T22:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eS3aODO_qLZuYKy3ULXIoZgJgAM",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCmry1hfaRHI_iTfxUMhC8mA"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-25T11:10:30Z",
+        "channelId": "UCmry1hfaRHI_iTfxUMhC8mA",
+        "title": "젠레스 존 제로",
+        "description": "〈젠레스 존 제로〉는 HoYoverse의 신작 어반 판타지 ARPG로, 게임 내 현대 사회는 「공동」이라는 이름의 재난에 의해 파괴 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/rrVTXWKv6pmCCYFZbTyFquGkzoMurqD-UbRPUABIjEVx1S_HVWlKjNfGEvMDeCGghDr53qBh=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/rrVTXWKv6pmCCYFZbTyFquGkzoMurqD-UbRPUABIjEVx1S_HVWlKjNfGEvMDeCGghDr53qBh=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/rrVTXWKv6pmCCYFZbTyFquGkzoMurqD-UbRPUABIjEVx1S_HVWlKjNfGEvMDeCGghDr53qBh=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "젠레스 존 제로",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-25T11:10:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dtXFTnvSjy9f_bg24Z5kiTDYTJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yLaaZ6-QKOo"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T11:01:33Z",
+        "channelId": "UCMspY113gnoQVGQS2HNrfnw",
+        "title": "[ZZZ] Yixuan GACHA.EXE",
+        "description": "Welcome home Scathach Yixuan gacha 儀玄 의현 Zenless Zone Zero ゼンレスゾーンゼロ Source : FGO Grand Saber Miyamoto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yLaaZ6-QKOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yLaaZ6-QKOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yLaaZ6-QKOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NaniSan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T11:01:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jW5mYTUJV54cwlCNCkaHL5eJp4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CMTn78aZf30"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T06:10:19Z",
+        "channelId": "UCZ6mNZTiTUrUSbSYPlclI4A",
+        "title": "우키나미 유즈하 인게임 디자인 [젠레스 존 제로]",
+        "description": "우키나미 유즈하 인게임 디자인 [젠레스 존 제로] 참고로 이 친구 이름은 빌리빌리 젠레스 존 제로 공식 채널 PV를 보면 기제되어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CMTn78aZf30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CMTn78aZf30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMTn78aZf30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레벤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T06:10:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gSsk1ecOHz_MSU-cWDQNS6KmoZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XxQDmxEvUwk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T12:53:29Z",
+        "channelId": "UCuhNfIQuEkvoGfVjZBIO8Zw",
+        "title": "【ゼンゼロ】橘福福のダッシュ攻撃が最高に楽しい理由【ゼンレスゾーンゼロ】",
+        "description": "フーフーかわいい #ゼンゼロ #hoyocreators #ゼンレスゾーンゼロ #新エリー都 #zzzero #zzzfaction #zzzgameplay #ZZZ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxQDmxEvUwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxQDmxEvUwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxQDmxEvUwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "やぶからおそると / Oh_Salt",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T12:53:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QoK8bumxoap_lstn-il0tQloVek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xu95zkd9j4o"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T17:56:09Z",
+        "channelId": "UCaM7CnvkHyj2tYHPEhdXcNw",
+        "title": "ZZZ New Agent Reminds Of...",
+        "description": "clips #zzzero #hoyocreators #zzz #zzzvideo #zenlesszonezeroedit #yuzuha #UkinamiYuzuha If Fontaine has a million fans, then I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xu95zkd9j4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xu95zkd9j4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xu95zkd9j4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fake Matthew",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T17:56:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y_BLNm249jQmrLJjZOb7yLSD3-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r0zhdrkw5h8"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-07T11:30:51Z",
+        "channelId": "UChcC3CPamMJHYfRu0nOlMxA",
+        "title": "whos your favorite healer? #wuwa #hsr #zzz#zzzero #genshinimpact #genshinmemes#memes #原神 #崩坏星穹铁道 #鸣潮",
+        "description": "HEALER BE LIKE #hoyovers #genshinimpact #genshin #hoyoverse #genshinimpactedit #genshinimpactgameplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0zhdrkw5h8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0zhdrkw5h8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0zhdrkw5h8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sgntrs gameplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-07T11:30:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2plla-lPbOF7tjJhuthO3MkGpFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RasDxVUC6yI"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T17:00:06Z",
+        "channelId": "UCoOJyqvSBVWbcxCiQfz74Ew",
+        "title": "Zzz. - u &amp; i [unplugged] (Official Lyric Video)",
+        "description": "Zzz. - u & i [unplugged] (Official Lyric Video) Subscribe to my channel: https://bit.ly/3qut2hb Follow Zzz. Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RasDxVUC6yI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RasDxVUC6yI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RasDxVUC6yI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zzz.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ckmWkHbqWyj6QTVqASwyJvZZE8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c_GeCJr0uRQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-07T15:00:29Z",
+        "channelId": "UCFVEr9by15m28zsEhQZETXQ",
+        "title": "YiXuan &amp; Buffed Ellen Joe Teams! | NEW Shiyu Defense 6-7 S Clear | Zenless Zone Zero ZZZ 2.0【ゼンゼロ】",
+        "description": "Subscribe for more videos - https://www.youtube.com/channel/UCFVEr9by15m28zsEhQZETXQ?sub_confirmation=1 ❤️Also ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_GeCJr0uRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_GeCJr0uRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_GeCJr0uRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "omegaevolution",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-07T15:00:29Z"
+      }
+    }
+  ]
+}

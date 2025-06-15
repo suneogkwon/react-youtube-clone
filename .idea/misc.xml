@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GBrowserService">{}</component>
+  <component name="GBrowserService"><![CDATA[{}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
   <component name="MaterialThemeProjectNewConfig">
     <option name="metadata">
       <MTProjectMetadataState>
         <option name="userId" value="-79a611d1:195b66e9b45:-7ffd" />
       </MTProjectMetadataState>
     </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -1,7 +1,6 @@
 import {
   isRouteErrorResponse,
   Links,
-  Meta,
   Outlet,
   Scripts,
   ScrollRestoration,
@@ -9,6 +8,15 @@ import {
 
 import type { Route } from "./+types/root";
 import "./app.css";
+import type { ReactNode } from "react";
+import SearchHeader from "~/components/search_header";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
+import { YoutubeApiProvider } from "~/context/youtube_api_context";
+import { SideBarProvider } from "~/context/side_bar_context";
+
+// Create a client
+const queryClient = new QueryClient();
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -23,13 +31,12 @@ export const links: Route.LinksFunction = () => [
   },
 ];
 
-export function Layout({ children }: { children: React.ReactNode }) {
+export function Layout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <Meta />
         <Links />
       </head>
       <body>
@@ -42,7 +49,16 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />;
+  return (
+    <QueryClientProvider client={queryClient}>
+      <YoutubeApiProvider>
+        <SideBarProvider>
+          <Outlet />
+        </SideBarProvider>
+      </YoutubeApiProvider>
+      <ReactQueryDevtools initialIsOpen={false} />
+    </QueryClientProvider>
+  );
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {

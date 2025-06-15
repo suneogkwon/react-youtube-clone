@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EC9GUK5aou9ajm364r4Sy9MAeVE",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 375,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fUA6MT0WShFZNii1H8E9xK52aNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DtZ4ZIqbZHU"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-27T04:05:00Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Exclusive Channel &quot;Champion of Embers&quot; Now Open",
+        "description": "2024/11/27 12:00:00 (server time) – 2024/12/17 14:59:59 (server time), the reception rate for limited S-Rank Agent Lighter (Stun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DtZ4ZIqbZHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DtZ4ZIqbZHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtZ4ZIqbZHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-27T04:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-XYN7pahc32Wur5y213BDEO-qMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9_WMRPo5FV0"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-30T04:00:11Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Overtimeboo",
+        "description": "Warning, fatigue overload!! #zzzero #zenlesszonezero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_WMRPo5FV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_WMRPo5FV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_WMRPo5FV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-30T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EgzMKtEF8-sRYd8Wssqpspf82HU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KGLnQkBS1QY"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-03T04:00:27Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only | Seth Lowell",
+        "description": "\"When my brother became a Public Security Officer, I thought he would become a hero who fights for justice and protects the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGLnQkBS1QY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGLnQkBS1QY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGLnQkBS1QY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-03T04:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0SLSacPDNhrujjNzPzPZ2_KLjr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQzEIecJo0s"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-22T04:15:00Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Your Exclusive Tea Break",
+        "description": "This is your exclusive tea break. Enjoy. —Welcome to New Eridu!— The official release Pre-Registration Milestones event has ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQzEIecJo0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQzEIecJo0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQzEIecJo0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-22T04:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lnr7d_1_C0-kSNXcq45ykJJZNiY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sbU01PH1oDc"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-29T04:15:11Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Robin",
+        "description": "Vanish Before Nightfall. #zzzero #zenlesszonezero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sbU01PH1oDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sbU01PH1oDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sbU01PH1oDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-29T04:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JCi8iPcQ1KWlRLaRvBp2qZ_tuHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCxnip2C3go"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T04:15:03Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Exclusive Channel &quot;Soar Into the Gentle Night&quot;",
+        "description": "Exclusive Channel \"Soar Into the Gentle Night\" | After the Version 1.7 Update – 2025/05/14 11:59:59 (server time). The Reception ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCxnip2C3go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCxnip2C3go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCxnip2C3go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T04:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L7-1sIvgzYnOrQVP4W3PhQrp81I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sa70LQq8nEM"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-22T04:00:13Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Street Kid Rules",
+        "description": "Street Kid Rule No. 2: Start shooting before the enemy does! —Welcome to New Eridu!— The official release Pre-Registration ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sa70LQq8nEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sa70LQq8nEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sa70LQq8nEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-22T04:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vLZkt5h7DFMt8JzXmQGD7bKaAwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yTK9Fd645p8"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-01T04:00:43Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Featured Audition | Lycaon",
+        "description": "\"For you, I'll eliminate any obstacles.\" —Welcome to New Eridu!— The official release Pre-Registration Milestones event has ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yTK9Fd645p8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yTK9Fd645p8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yTK9Fd645p8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-01T04:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HEBbmjf2AftGjyuNVFggr26dDQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hjl7ze6eKYo"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-01T04:15:00Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "&quot;My ultimate mission — to see my master&#39;s wishes, carried out.&quot;",
+        "description": "Welcome to New Eridu!— The official release Pre-Registration Milestones event has begun. Pre-register to earn up to Master ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hjl7ze6eKYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hjl7ze6eKYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hjl7ze6eKYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-01T04:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BgU0t4a58cz_NEVL-z4FRIL47NA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2YtsLhwrPkc"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-24T04:00:02Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Officer Cui, chase &#39;em down!",
+        "description": "zzzero #zenlesszonezero #OfficerCui.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YtsLhwrPkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YtsLhwrPkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YtsLhwrPkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-24T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NYB3gUm75XOWh4gyCjmGxQwvpR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Xg8i9qUAjw"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-21T04:00:03Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only",
+        "description": "\"So many enemies, I wish I had as many Starlight Knight action figures...\" Follow the official Zenless Zone Zero community for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Xg8i9qUAjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Xg8i9qUAjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Xg8i9qUAjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-21T04:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SYhJWKexu6-rW4NmfzZYO-7xUko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XQ-AUJLD7ng"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-02T04:00:16Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only | Jane Doe",
+        "description": "\"Who's the hunter, and who's the prey?\" #zzzero #zenlesszonezero #JaneDoe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQ-AUJLD7ng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQ-AUJLD7ng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQ-AUJLD7ng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-02T04:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "US1yriqpmMDCC9bPCh8xTQ_Gc4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9F3p0X6j9hY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T04:00:04Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Behind-the-Scenes | Snap",
+        "description": "Its flash only shines for true superstars. #zzzero #zenlesszonezero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9F3p0X6j9hY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9F3p0X6j9hY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9F3p0X6j9hY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ofz6qoQuroywlib6jdQ16rqbY_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J4_mduonPb4"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-26T04:15:01Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Pan Yinhu",
+        "description": "zzzero #zenlesszonezero #PanYinhu.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J4_mduonPb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J4_mduonPb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4_mduonPb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-26T04:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qn9wkxX3LXPrBxZN7n_-w6Tu-MQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dYsJ2xaVZcc"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-28T10:00:41Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only | Lighter",
+        "description": "\"This red scarf isn't just a sign of victory, it's a warning to anyone who wants to cause trouble.\" \"I'm sorry. I have my people and a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dYsJ2xaVZcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dYsJ2xaVZcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dYsJ2xaVZcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-28T10:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S8ZAPJ0uBmhIRglK8cksLjcl21s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UIg1-B8otsY"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-08T04:05:00Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Hoshimi Miyabi",
+        "description": "zzzero #zenlesszonezero #Miyabi.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UIg1-B8otsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UIg1-B8otsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIg1-B8otsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-08T04:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xRJf8EIvFn4rPqN0Pq92fvDRSVU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z989fRiG-6Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-04T04:00:20Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only | Ellen Joe",
+        "description": "\"One hammerhead shark, two horn sharks, three... Sharks sink if they are not moving, y'know?\" — Welcome to New Eridu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z989fRiG-6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z989fRiG-6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z989fRiG-6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-04T04:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cb6jf3-AyFNMU7-rhEWYtlohbE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GhN5idlsfKI"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-01T04:05:00Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Asaba Harumasa",
+        "description": "zzzero #zenlesszonezero #Harumasa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GhN5idlsfKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GhN5idlsfKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GhN5idlsfKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-01T04:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FNPE2onrAn-PVSU0vY0Nas79Vqo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P3Q217Qte8g"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-08T04:04:55Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Hugo",
+        "description": "zzzero #zenlesszonezero #Hugo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P3Q217Qte8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P3Q217Qte8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P3Q217Qte8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-08T04:04:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-QOJwnk4hUBRS8qohxvzsbb-5dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oxo9lVQMzrU"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-06T10:00:20Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Qingyi",
+        "description": "\"A chance encounter, just as I had hoped.\" Qingyi \"Slacking off? I don't get it... There's still so much I have yet to learn about youth ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oxo9lVQMzrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oxo9lVQMzrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxo9lVQMzrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-06T10:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2WI6l52si2Pr6jITfg4aCdlg-b8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7QwWP1nxBnE"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-06T04:04:59Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Vivian",
+        "description": "zzzero #zenlesszonezero #Vivian.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7QwWP1nxBnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7QwWP1nxBnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7QwWP1nxBnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-06T04:04:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PlNK0qYTTkrPKVj1up6DERAVv6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TD50BXNqy5w"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-24T04:05:01Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Agent Record | Lighter",
+        "description": "\"Is anyone up for challenging the undefeated Champion?\" Lighter \"You may not have the skill to defeat me, but could you not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TD50BXNqy5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TD50BXNqy5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TD50BXNqy5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-24T04:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "91ZDAbWViWKSW_9d4KdAlURUX2g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZhxcVqAl5TI"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-30T04:00:33Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "[Prize Event] &quot;MoeChakkaFire&quot; Fan Art Event is now underway!",
+        "description": "Event Duration 2024/10/30 – 2024/11/24 (UTC+8) ▽ Event Details https://hoyo.link/0NElFBAL Link to the original work of \"モエ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZhxcVqAl5TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZhxcVqAl5TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZhxcVqAl5TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-30T04:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "liYQIJjc3Scz_Mo0jBCECi7B-qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qMIX8aBpLg4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T04:15:02Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "For Display Only | Asaba Harumasa",
+        "description": "\"I don't believe in forever... or perhaps I don't dare to. Just living in the moment is enough for me.\" \"No matter what, I'll treasure my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMIX8aBpLg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMIX8aBpLg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMIX8aBpLg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T04:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKB-2FkO4ZK1gQXKyPQMNGM2XuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fQqzp-5wdbQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-02T04:00:38Z",
+        "channelId": "UC2SpC8rL9LaeQriE4YNdyzA",
+        "title": "Exclusive Channel &quot;Sights of Asphodel&quot;",
+        "description": "Exclusive Channel \"Sights of Asphodel\" | 2025/04/02 12:00:00 (server time) – 2025/04/22 14:59:59 (server time). The Reception ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fQqzp-5wdbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fQqzp-5wdbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fQqzp-5wdbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zenless Zone Zero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-02T04:00:38Z"
+      }
+    }
+  ]
+}

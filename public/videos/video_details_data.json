@@ -1,0 +1,124 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "3jR2-LEcGmBU1tpEHvK3B3kz66o",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "08rF5AqWd5UaOCJm74kFwpXNCjE",
+      "id": "pifz9JH1Re8",
+      "snippet": {
+        "publishedAt": "2025-06-09T09:00:06Z",
+        "channelId": "UCgD0APk2x9uBlLM0UsmhQjw",
+        "title": "QWER '눈물참기' Official MV",
+        "description": "QWER '눈물참기' Official MV\nⓒ 2025 Tamago production. All Rights Reserved.\n\n#QWER #눈물참기 #Dear  #온세상이불협일지라도 #beyourharmony\n\n[QWER Official SNS]\nOFFICIAL YOUTUBE▷ https://www.youtube.com/@QWER_Band_official\nOFFICIAL INSTAGRAM▷  https://www.instagram.com/qwerband_official\nOFFICIAL WEVERSE▷ https://weverse.io/qwer\nOFFICIAL X▷ https://X.com/official_QWER\nOFFICIAL TIKTOK▷ https://www.tiktok.com/@qwerband_official\nOFFICIAL FANCAFE▷ https://cafe.naver.com/eggkim",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pifz9JH1Re8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pifz9JH1Re8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pifz9JH1Re8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pifz9JH1Re8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "QWER",
+        "tags": [
+          "티져",
+          "티저",
+          "teaser",
+          "mv teaser",
+          "m/v teaser",
+          "하라메",
+          "QWER 하라메",
+          "QWER 하이라이트",
+          "highlight medley",
+          "QWER",
+          "눈물참기",
+          "Dear",
+          "난네온불",
+          "난 네편이야 온 세상이 불협일지라도",
+          "트레일러",
+          "trailer",
+          "QWER 신곡",
+          "신곡",
+          "스포",
+          "스포일러",
+          "QWER 스포",
+          "냥뇽녕냥",
+          "히나",
+          "qwer",
+          "쵸단",
+          "김계란",
+          "피지컬갤러리",
+          "밴드",
+          "락밴드",
+          "KPOP",
+          "마젠타",
+          "이시연",
+          "시요밍",
+          "시연",
+          "아이돌",
+          "걸밴드",
+          "QWER Teaser",
+          "QWER trailer",
+          "QWER 트레일러",
+          "버스킹",
+          "QWER 버스킹",
+          "뮤비",
+          "뮤직비디오",
+          "MV",
+          "M/V",
+          "music",
+          "video",
+          "music video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "QWER '눈물참기' Official MV",
+          "description": "QWER '눈물참기' Official MV\nⓒ 2025 Tamago production. All Rights Reserved.\n\n#QWER #눈물참기 #Dear  #온세상이불협일지라도 #beyourharmony\n\n[QWER Official SNS]\nOFFICIAL YOUTUBE▷ https://www.youtube.com/@QWER_Band_official\nOFFICIAL INSTAGRAM▷  https://www.instagram.com/qwerband_official\nOFFICIAL WEVERSE▷ https://weverse.io/qwer\nOFFICIAL X▷ https://X.com/official_QWER\nOFFICIAL TIKTOK▷ https://www.tiktok.com/@qwerband_official\nOFFICIAL FANCAFE▷ https://cafe.naver.com/eggkim"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9248179",
+        "likeCount": "144600",
+        "favoriteCount": "0",
+        "commentCount": "5954"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"1920\" height=\"1080\" src=\"//www.youtube.com/embed/pifz9JH1Re8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
